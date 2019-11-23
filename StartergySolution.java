@@ -11,7 +11,7 @@ class Flower {
 
 class Jasmine extends Flower {
     public String whatsYourName() {
-        return "Jasmin";
+        return "Jasmine";
     }
 }
 
